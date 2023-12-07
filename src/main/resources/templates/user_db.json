@@ -1,0 +1,22 @@
+[
+  {
+    "username": "Alice",
+    "password": "$2a$10$YyAjf9EME8t0mfMCcRKo6.CCvnezXjMrjdqsXJSSmGZMWhQPp.wZ.",
+    "friends": []
+  },
+  {
+    "username": "Bob",
+    "password": "$2a$10$mvxYfqKmggrUrxm6wulfHeMG8b1nXP5LEWL2QshPxFohYUiyZ3TYC",
+    "friends": ["Alice","namanh", "namanh202"]
+  },
+  {
+    "username": "namanh",
+    "password": "$2a$10$oVCXucwzCB09H3wmPwuGv.nglW4pXg2znmcmpL71lPe3Z4xEM6heC",
+    "friends": ["Bob"]
+  },
+  {
+    "username": "namanh202",
+    "password": "$2a$10$dKcD33PDpIxSJlaBR4zRYeHiQNPs.NT1qkhOS.14u2OyCCi3HIZ0W",
+    "friends": []
+  }
+]
